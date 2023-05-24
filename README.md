@@ -5,7 +5,16 @@
 
 ## Design Patterns
 
+- Adapter
+- Strategy
+- Proxy
+- WithoutStrategy
+
 
 ## Low Level Design
+
+- Followed SOLID principles and oops design principles
+-  Car Parking 
+-  Snakes and laddes
 
 
